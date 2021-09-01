@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30611.23
+VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrypt", "Battle Cats save editor\Decrypt.csproj", "{E886952A-BA8F-4076-9EE4-5826F085EF3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatCalculator", "BattleCatsStatCalculator\StatCalculator.csproj", "{E886952A-BA8F-4076-9EE4-5826F085EF3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B1CDE157-C0A9-40D6-A68E-B9076BE69938}
+		SolutionGuid = {B815A810-332C-4BB8-A3C1-0D54F3733DF7}
 	EndGlobalSection
 EndGlobal

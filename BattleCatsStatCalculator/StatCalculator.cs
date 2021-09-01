@@ -1,9 +1,8 @@
 ﻿using System;
 
-namespace Decrypt
+namespace StatCalculator
 {
-
-    class Decrypt
+    class StatCalculator
     {
         [STAThread]
         static void Main()
